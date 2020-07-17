@@ -9,7 +9,8 @@ def array_diff(a, b):
                     break
     print(a)
     return(a)
-array_diff([1,2], [1])
+#The following examples will output the intended result
+array_diff([1,2], [1])                                      
 array_diff([1,2,2], [1])
 array_diff([1,2,2], [2])
 array_diff([1,2,2], [])
