@@ -1,3 +1,3 @@
 # Data Science Portfolio
 
-*Italic text*
+## Contents
