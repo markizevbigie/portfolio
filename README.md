@@ -10,7 +10,7 @@
 # [Project 2: Tooth Loss vs Fluoride Levels in Public Water ](https://www.kaggle.com/code/elitexemnas/water-fluoride-level-dental-service-utilization?kernelSessionId=118336109)
 * Gathered data from Center for Disease Control and Prevention government [website](https://www.cdc.gov/oralhealthdata/overview/adult-indicators.html).
 * Parsed 33,000 records in Python using Pandas library.
-* Explored correlation between higher availability of tooth health for population 65+ across all 50 states.
+* Explored correlation between fluroide and tooth health for population 65+ across all 50 states.
 
 # [Project 3: Map of commercial real estate for rent and average distance from nearest residential areas in Tampa, FL (In Progress )](https://www.kaggle.com/code/elitexemnas/tampa-commercial-residential-real-estate-overlay?scriptVersionId=118338947)
 * Gathered data from City of Tampa
