@@ -12,7 +12,7 @@
 * Parsed 33,000 records in Python using Pandas library.
 * Explored correlation between highger availability of toothe health for population 65+ across all 50 states.
 
-# [Project 3: Map of commercial real estate for rent and average distance from nearest residential areas in Tampa, FL (In Progress . . . )](https://www.kaggle.com/code/elitexemnas/tampa-commercial-residential-real-estate-overlay?scriptVersionId=118338947)
+# [Project 3: Map of commercial real estate for rent and average distance from nearest residential areas in Tampa, FL (In Progress )](https://www.kaggle.com/code/elitexemnas/tampa-commercial-residential-real-estate-overlay?scriptVersionId=118338947)
 * Gathered data from City of Tampa
 * Overlayed data of residential areas of Tampa, FL over map with Geopandas and Folium libraries.
 * In Progress: improving performance. Map runs too slowly to be viable
