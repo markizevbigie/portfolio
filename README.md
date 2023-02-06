@@ -2,7 +2,7 @@
 
 # [Project 1: SQL to Tableau Dashboard Pipeline: Customer Refunds vs Contract Renegotiation Calculator](https://public.tableau.com/shared/M2CZ8TZRG?:display_count=n&:origin=viz_share_link)
 * Created SQL query to extract data from [Northwind Traders Database](https://www.geeksengine.com/article/northwind.html), which contains thousands of records across 13 tables of sales data for orders that shipped late.
-* Inserted column for a fictional customer refund calculation of 60% on Gross Revenue on late orders.
+* Inserted column for a fictional customer refund calculation of 60% of Gross Revenue on late orders.
 * Create a map of most frequent late orders by country.
 * Created overlapping bar chart of Gross Revenue vs refunds.
 * Composed a Dashboard that allows input from management to measure costs of late fee renegotiation vs historical late fees.
