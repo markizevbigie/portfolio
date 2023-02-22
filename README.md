@@ -8,6 +8,7 @@
 * Composed a Dashboard that allows input from management to measure costs of late fee renegotiation vs historical late fees.
 
 # [Project 2: Tooth Loss vs Fluoride Levels in Public Water ](https://www.kaggle.com/code/elitexemnas/water-fluoride-level-dental-service-utilization?kernelSessionId=118336109)
+[![Video Thumbnail](C:\Users\Mark\Downloads\fluoride.PNG)](https://youtu.be/dmhVqedsDKA)
 * Gathered data from Center for Disease Control and Prevention government [website](https://www.cdc.gov/oralhealthdata/overview/adult-indicators.html).
 * Parsed 33,000 records in Python using Pandas library.
 * Explored correlation between fluoride and tooth health for population 65+ across all 50 states.
