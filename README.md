@@ -9,7 +9,7 @@
 
 # [Project 2: Tooth Loss vs Fluoride Levels in Public Water ](https://www.kaggle.com/code/elitexemnas/water-fluoride-level-dental-service-utilization?kernelSessionId=118336109)
 [![Video Thumbnail](https://www.eufic.org/en/images/uploads/images/Mineral-Fluoride_Images-01.png)](https://youtu.be/dmhVqedsDKA)
-* Click on the image above for a 90-second summary of the project.
+* Click [here](https://youtu.be/dmhVqedsDKA) for a 90-second summary of the project.
 * Gathered data from Center for Disease Control and Prevention government [website](https://www.cdc.gov/oralhealthdata/overview/adult-indicators.html).
 * Parsed 33,000 records in Python using Pandas library.
 * Explored correlation between fluoride and tooth health for population 65+ across all 50 states.
